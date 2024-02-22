@@ -18,7 +18,7 @@ body {
     margin-right: 10%;
     margin-top: 15px;
 }
-.nav-links{
+.nav{
     display: flex;
     grid-template-rows: 10px 100px;
     background-color: black;
